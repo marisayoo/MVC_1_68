@@ -1,0 +1,11 @@
+﻿JobID,Title,Description,CompanyID,Deadline,Status,JobType
+20000001,Software Engineer,Develop web and mobile apps,10000001,12/31/2025,open,normal
+20000002,Data Analyst,Analyze business data,10000001,12/15/2025,open,coop
+20000003,UI/UX Designer,Design user-friendly interfaces,10000002,11/30/2025,open,normal
+20000004,QA Tester,Test software for bugs,10000002,10/12/2025,closed,normal
+20000005,Network Engineer,Manage company networks,10000001,10/12/2025,open,normal
+20000006,Database Admin,Maintain company databases,10000002,11/11/2025,open,coop
+20000007,AI Research Intern,Research machine learning models,10000001,12/12/2025,open,coop
+20000008,HR Coordinator,Handle recruitment and HR tasks,10000002,11/12/2025,closed,normal
+20000009,Marketing Specialist,Manage online campaigns,10000001,10/11/2025,open,normal
+20000010,Cloud Engineer,Deploy and monitor cloud systems,10000001,10/12/2025,open,coop
